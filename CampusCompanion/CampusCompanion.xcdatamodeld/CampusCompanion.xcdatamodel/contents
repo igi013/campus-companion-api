@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="25098" systemVersion="25A362" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CampusAnnouncement" representedClassName="CampusAnnouncement" syncable="YES" codeGenerationType="class">
+        <attribute name="category" optional="NO" attributeType="String" defaultValueString=""/>
+        <attribute name="date" optional="NO" attributeType="String" defaultValueString=""/>
+        <attribute name="location" optional="NO" attributeType="String" defaultValueString=""/>
+        <attribute name="priorityLevel" optional="NO" attributeType="String" defaultValueString=""/>
+        <attribute name="title" optional="NO" attributeType="String" defaultValueString=""/>
+    </entity>
+    <elements>
+        <element name="CampusAnnouncement" positionX="-63" positionY="-18" width="128" height="119"/>
+    </elements>
+</model>
