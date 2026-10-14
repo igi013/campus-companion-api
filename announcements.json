@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Enrollment Period Extended",
+    "date": "August 3, 2026",
+    "category": "Registrar",
+    "location": "Registrar Office",
+    "priorityLevel": "High"
+  },
+  {
+    "title": "Library Orientation Schedule",
+    "date": "August 5, 2026",
+    "category": "Library",
+    "location": "Main Library",
+    "priorityLevel": "Normal"
+  },
+  {
+    "title": "Campus Wi-Fi Maintenance",
+    "date": "August 8, 2026",
+    "category": "IT Services",
+    "location": "All Buildings",
+    "priorityLevel": "High"
+  },
+  {
+    "title": "Student Organization Fair",
+    "date": "August 12, 2026",
+    "category": "Student Affairs",
+    "location": "Activity Center",
+    "priorityLevel": "Normal"
+  },
+  {
+    "title": "Scholarship Application Deadline",
+    "date": "August 15, 2026",
+    "category": "Scholarships",
+    "location": "Admissions Office",
+    "priorityLevel": "High"
+  },
+  {
+    "title": "Intramurals Tryouts",
+    "date": "August 18, 2026",
+    "category": "Sports",
+    "location": "Gymnasium",
+    "priorityLevel": "Normal"
+  }
+]
